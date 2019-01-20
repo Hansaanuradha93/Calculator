@@ -57,7 +57,7 @@
 				47C2220E21C8C46700CE50A7 /* Model */,
 				47C2220F21C8C47100CE50A7 /* View */,
 				47C2221021C8C48400CE50A7 /* Controller */,
-				47C2220821C8C37100CE50A7 /* Info.plist */,
+				47DD577321F4CDDA00D12206 /* Supporting Files */,
 			);
 			path = "Auto Layout Calcultor";
 			sourceTree = "<group>";
@@ -72,9 +72,7 @@
 		47C2220F21C8C47100CE50A7 /* View */ = {
 			isa = PBXGroup;
 			children = (
-				47C2220521C8C37100CE50A7 /* LaunchScreen.storyboard */,
 				47C2220021C8C37000CE50A7 /* Main.storyboard */,
-				47C2220321C8C37100CE50A7 /* Assets.xcassets */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -86,6 +84,16 @@
 				47C221FC21C8C37000CE50A7 /* AppDelegate.swift */,
 			);
 			path = Controller;
+			sourceTree = "<group>";
+		};
+		47DD577321F4CDDA00D12206 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				47C2220321C8C37100CE50A7 /* Assets.xcassets */,
+				47C2220521C8C37100CE50A7 /* LaunchScreen.storyboard */,
+				47C2220821C8C37100CE50A7 /* Info.plist */,
+			);
+			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
