@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		47073C4421F5C630007E199D /* CalculatorLogic.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47073C4321F5C630007E199D /* CalculatorLogic.swift */; };
 		47C221FD21C8C37000CE50A7 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47C221FC21C8C37000CE50A7 /* AppDelegate.swift */; };
 		47C221FF21C8C37000CE50A7 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47C221FE21C8C37000CE50A7 /* ViewController.swift */; };
 		47C2220221C8C37000CE50A7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 47C2220021C8C37000CE50A7 /* Main.storyboard */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		47073C4321F5C630007E199D /* CalculatorLogic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalculatorLogic.swift; sourceTree = "<group>"; };
 		47C221F921C8C37000CE50A7 /* Auto Layout Calcultor.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Auto Layout Calcultor.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		47C221FC21C8C37000CE50A7 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		47C221FE21C8C37000CE50A7 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -65,6 +67,7 @@
 		47C2220E21C8C46700CE50A7 /* Model */ = {
 			isa = PBXGroup;
 			children = (
+				47073C4321F5C630007E199D /* CalculatorLogic.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -169,6 +172,7 @@
 			files = (
 				47C221FF21C8C37000CE50A7 /* ViewController.swift in Sources */,
 				47C221FD21C8C37000CE50A7 /* AppDelegate.swift in Sources */,
+				47073C4421F5C630007E199D /* CalculatorLogic.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
